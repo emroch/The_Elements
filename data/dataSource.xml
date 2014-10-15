@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Data>
+  <!-- Group Data -->
+  <group id="0" name="Alkali Metals"><path>Groups/Alkali Metals.png</path></group>
+  <group id="1" name="Alkaline Earth Metals"><path>Groups/Alkaline Earth Metals.png</path></group>
+  <group id="2" name="Transition Metals 1"><path>Groups/Transition pg1.png</path></group>
+  <group id="3" name="Transition Metals 2"><path>Groups/Transition pg2.png</path></group>
+  <group id="4" name="Transition Metals 3"><path>Groups/Transition pg3.png</path></group>
+  <group id="5" name="Transition Metals 4"><path>Groups/Transition pg4.png</path></group>
+  <group id="6" name="Transition Metals 5"><path>Groups/Transition pg5.png</path></group>
+  <group id="7" name="Metals"><path>Groups/Metals.png</path></group>
+  <group id="8" name="Nonmetals 1"><path>Groups/Nonmetals pg1.png</path></group>
+  <group id="9" name="Nonmetals 2"><path>Groups/Nonmetals pg2.png</path></group>
+  <group id="10" name="Halogens"><path>Groups/Halogens.png</path></group>
+  <group id="11" name="Noble Gases"><path>Groups/Noble Gases.png</path></group>
+  <group id="12" name="Rare Earth Metals 1"><path>Groups/Rare Earth pg1.png</path></group>
+  <group id="13" name="Rare Earth Metals 2"><path>Groups/Rare Earth pg2.png</path></group>
+  <group id="14" name="Rare Earth Metals 3"><path>Groups/Rare Earth pg3.png</path></group>
+  <!-- Element Data -->
+  <element id="0" name="Error">
+    <path>Elements/Element Not Done.png</path>
+  </element>
+  <element id="1" name="Hydrogen">
+    <path>Elements/Hydrogen.png</path>
+    <sources>
+      <sample>None</sample>
+      <symbol>http://sciencenotes.org/periodic-table-element-cells/</symbol>
+      <config>http://commons.wikimedia.org/wiki/File:Electron_shell_001_Hydrogen.svg</config>
+      <example>http://en.wikipedia.org/wiki/Sun</example>
+      <phase>http://education.jlab.org/itselemental/ele001.html</phase>
+      <info>http://periodictable.com/theelements/</info>
+    </sources>
+  </element>
+  <element id="2" name="Helium">
+    <path>Elements/Helium.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:HeTube.jpg</sample>
+      <symbol>http://sciencenotes.org/periodic-table-element-cells/</symbol>
+      <config>http://commons.wikimedia.org/wiki/File:Electron_shell_002_Helium.svg</config>
+      <example>http://en.wikipedia.org/wiki/File:Helium-II-creep.svg</example>
+      <phase>http://education.jlab.org/itselemental/ele002.html</phase>
+      <info>http://en.wikipedia.org/wiki/Helium</info>
+    </sources>
+  </element>
+  <element id="3" name="Lithium">
+    <path>Elements/Lithium.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/lithium.php</sample>
+      <symbol>http://sciencenotes.org/periodic-table-element-cells/</symbol>
+      <config>http://commons.wikimedia.org/wiki/File:Electron_shell_003_Lithium.svg</config>
+      <example>Own Work</example>
+      <phase>http://education.jlab.org/itselemental/ele003.html</phase>
+      <info>http://en.wikipedia.org/wiki/Lithium</info>
+    </sources>
+  </element>
+  <element id="4" name="Beryllium">
+    <path>Elements/Beryllium.png</path>
+    <sources>
+      <sample>http://periodictable.com/Items/004.1/index.qtvr.html</sample>
+      <symbol>http://sciencenotes.org/periodic-table-element-cells/</symbol>
+      <config>http://commons.wikimedia.org/wiki/File:Electron_shell_004_Beryllium.svg</config>
+      <example></example>
+      <phase>http://education.jlab.org/itselemental/ele004.html</phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="5" name="Boron">
+    <path>Elements/Boron.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/boron.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="6" name="Carbon">
+    <path>Elements/Carbon.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/carbon.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="7" name="Nitrogen">
+    <path>Elements/Nitrogen.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:Nitrogen_discharge_tube.jpg</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="8" name="Oxygen">
+    <path>Elements/Oxygen.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/oxygen.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="9" name="Fluorine">
+    <path>Elements/Fluorine.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/fluorine.php</sample>
+      <symbol>http://sciencenotes.org/periodic-table-element-cells/</symbol>
+      <config>http://commons.wikimedia.org/wiki/File:Electron_shell_009_Fluorine.svg</config>
+      <example></example>
+      <phase>http://education.jlab.org/itselemental/ele009.html</phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="10" name="Neon">
+    <path>Elements/Neon.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:NeTube.jpg</sample>
+      <symbol>http://sciencenotes.org/periodic-table-element-cells/</symbol>
+      <config>http://commons.wikimedia.org/wiki/File:Electron_shell_010_Neon.svg</config>
+      <example>Google Images: search 'State Theatre Neon Sign'</example>
+      <phase>http://education.jlab.org/itselemental/ele010.html</phase>
+      <info>http://en.wikipedia.org/wiki/Neon</info>
+    </sources>
+  </element>
+  <element id="11" name="Sodium">
+    <path>Elements/Sodium.png</path>
+    <sources>
+      <sample>http://en.wikipedia.org/wiki/File:Na_(Sodium).jpg</sample>
+      <symbol>http://sciencenotes.org/periodic-table-element-cells/</symbol>
+      <config>http://commons.wikimedia.org/wiki/File:Electron_shell_011_Sodium.svg</config>
+      <example>http://mystilettos.wordpress.com/2010/07/29/for-ye-ole-salt/</example>
+      <phase>http://education.jlab.org/itselemental/ele011.html</phase>
+      <info>http://en.wikipedia.org/wiki/Sodium</info>
+      <info>http://en.wikipedia.org/wiki/Sodium_chloride</info>
+    </sources>
+  </element>
+  <element id="12" name="Magnesium">
+    <path>Elements/Magnesium.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:Magnesium_crystals.jpg</sample>
+      <symbol>http://sciencenotes.org/periodic-table-element-cells/</symbol>
+      <config>http://commons.wikimedia.org/wiki/File:Electron_shell_012_Magnesium.svg</config>
+      <example></example>
+      <phase>http://education.jlab.org/itselemental/ele012.html</phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="13" name="Aluminum">
+    <path>Elements/Aluminum.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/aluminium.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="14" name="Silicon">
+    <path>Elements/Silicon.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/silicon.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="15" name="Phosphorus">
+    <path>Elements/Phosphorus.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/phosphorus.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="16" name="Sulfur">
+    <path>Elements/Sulfur.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/sulfur.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="17" name="Chlorine">
+    <path>Elements/Chlorine.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/chlorine.php</sample>
+      <symbol>http://sciencenotes.org/periodic-table-element-cells/</symbol>
+      <config>http://commons.wikimedia.org/wiki/File:Electron_shell_017_Chlorine.svg</config>
+      <example>Google Images: search 'Chlorine Pool'</example>
+      <phase>http://education.jlab.org/itselemental/ele017.html</phase>
+      <info>http://en.wikipedia.org/wiki/Chlorine</info>
+    </sources>
+  </element>
+  <element id="18" name="Argon">
+    <path>Elements/Argon.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:ArTube.jpg</sample>
+      <symbol>http://sciencenotes.org/periodic-table-element-cells/</symbol>
+      <config>http://commons.wikimedia.org/wiki/File:Electron_shell_018_Argon.svg</config>
+      <example></example>
+      <phase>http://education.jlab.org/itselemental/ele018.html</phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="19" name="Potassium">
+    <path>Elements/Potassium.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:Potassium.JPG</sample>
+      <symbol>http://sciencenotes.org/periodic-table-element-cells/</symbol>
+      <config>http://commons.wikimedia.org/wiki/File:Electron_shell_019_Potassium.svg</config>
+      <example>http://fitnessandhealthadvisor.com/9-amazing-reasons-to-eat-bananas/</example>
+      <phase>http://education.jlab.org/itselemental/ele019.html</phase>
+      <info>http://en.wikipedia.org/wiki/Potassium</info>
+    </sources>
+  </element>
+  <element id="20" name="Calcium">
+    <path>Elements/Calcium.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:Calcium_unter_Argon_Schutzgasatmosph%C3%A4re.jpg</sample>
+      <symbol>http://sciencenotes.org/periodic-table-element-cells/</symbol>
+      <config>http://commons.wikimedia.org/wiki/File:Electron_shell_020_Calcium.svg</config>
+      <example></example>
+      <phase>http://education.jlab.org/itselemental/ele020.html</phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="21" name="Scandium">
+    <path>Elements/Scandium.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:Scandium.jpg</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="22" name="Titanium">
+    <path>Elements/Titanium.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:Titan-crystal_bar.JPG</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="23" name="Vanadium">
+    <path>Elements/Vanadium.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/vanadium.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="24" name="Chromium">
+    <path>Elements/Chromium.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/chromium.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="25" name="Manganese">
+    <path>Elements/Manganese.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:Mangan_1.jpg</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="26" name="Iron">
+    <path>Elements/Iron.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:Iron_electrolytic_and_1cm3_cube.jpg</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="27" name="Cobalt">
+    <path>Elements/Cobalt.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/cobalt.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="28" name="Nickel">
+    <path>Elements/Nickel.png</path>
+    <sources>
+      <sample>http://en.wikipedia.org/wiki/File:Nickel_chunk.jpg</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="29" name="Copper">
+    <path>Elements/Copper.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:Cu-Scheibe.JPG#</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="30" name="Zinc">
+    <path>Elements/Zinc.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:Zinc-sample.jpg</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="31" name="Gallium">
+    <path>Elements/Gallium.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:Gallium_crystals.jpg</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="32" name="Germanium">
+    <path>Elements/Germanium.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/germanium.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="33" name="Arsenic">
+    <path>Elements/Arsenic.png</path>
+    <sources>
+      <sample>http://en.wikipedia.org/wiki/File:Arsen_1a.jpg</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="34" name="Selenium">
+    <path>Elements/Selenium.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/selenium.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="35" name="Bromine">
+    <path>Elements/Bromine.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/bromine.php</sample>
+      <symbol>http://sciencenotes.org/periodic-table-element-cells/</symbol>
+      <config>http://commons.wikimedia.org/wiki/File:Electron_shell_035_Bromine.svg</config>
+      <example></example>
+      <phase>http://education.jlab.org/itselemental/ele035.html</phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="36" name="Krypton">
+    <path>Elements/Krypton.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:KrTube.jpg</sample>
+      <symbol>http://sciencenotes.org/periodic-table-element-cells/</symbol>
+      <config>http://commons.wikimedia.org/wiki/File:Electron_shell_036_Krypton.svg</config>
+      <example></example>
+      <phase>http://education.jlab.org/itselemental/ele036.html</phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="37" name="Rubidium">
+    <path>Elements/Rubidium.png</path>
+    <sources>
+      <sample>http://en.wikipedia.org/wiki/File:Rb5.JPG</sample>
+      <symbol>http://sciencenotes.org/periodic-table-element-cells/</symbol>
+      <config>http://commons.wikimedia.org/wiki/File:Electron_shell_037_Rubidium.svg</config>
+      <example></example>
+      <phase>http://education.jlab.org/itselemental/ele037.html</phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="38" name="Strontium">
+    <path>Elements/Strontium.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:Strontium_unter_Argon_Schutzgas_Atmosph%C3%A4re.jpg</sample>
+      <symbol>http://sciencenotes.org/periodic-table-element-cells/</symbol>
+      <config>http://commons.wikimedia.org/wiki/File:Electron_shell_038_Strontium.svg</config>
+      <example></example>
+      <phase>http://education.jlab.org/itselemental/ele038.html</phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="39" name="Yttrium">
+    <path>Elements/Yttrium.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/yttrium.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="40" name="Zirconium">
+    <path>Elements/Zirconium.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:Zirconium_crystal_bar_and_1cm3_cube.jpg</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="41" name="Niobium">
+    <path>Elements/Niobium.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:Niobium_crystals_1.jpg</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="42" name="Molybdenum">
+    <path>Elements/Molybdenum.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/molybdenum.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="43" name="Technetium">
+    <path>Elements/Technetium.png</path>
+    <sources>
+      <sample>http://periodictable.com/Elements/043/index.html</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="44" name="Ruthenium">
+    <path>Elements/Ruthenium.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/ruthenium.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="45" name="Rhodium">
+    <path>Elements/Rhodium.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:Rhodium_foil_and_wire.jpg</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="46" name="Palladium">
+    <path>Elements/Palladium.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/palladium.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="47" name="Silver">
+    <path>Elements/Silver.png</path>
+    <sources>
+      <sample>http://en.wikipedia.org/wiki/File:Silver_crystal.jpg</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="48" name="Cadmium">
+    <path>Elements/Cadmium.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/cadmium.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="49" name="Indium">
+    <path>Elements/Indium.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/indium.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="50" name="Tin">
+    <path>Elements/Tin.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/tin.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="51" name="Antimony">
+    <path>Elements/Antimony.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/antimony.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="52" name="Tellurium">
+    <path>Elements/Tellurium.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:Tellurium_crystal.jpg</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="53" name="Iodine">
+    <path>Elements/Iodine.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/iodine.php</sample>
+      <symbol>http://sciencenotes.org/periodic-table-element-cells/</symbol>
+      <config>http://commons.wikimedia.org/wiki/File:Electron_shell_053_Iodine.svg</config>
+      <example></example>
+      <phase>http://education.jlab.org/itselemental/ele053.html</phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="54" name="Xenon">
+    <path>Elements/Xenon.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:XeTube.jpg</sample>
+      <symbol>http://sciencenotes.org/periodic-table-element-cells/</symbol>
+      <config>http://commons.wikimedia.org/wiki/File:Electron_shell_054_Xenon.svg</config>
+      <example></example>
+      <phase>http://education.jlab.org/itselemental/ele054.html</phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="55" name="Cesium">
+    <path>Elements/Cesium.png</path>
+    <sources>
+      <sample>http://en.wikipedia.org/wiki/File:CsCrystals.JPG</sample>
+      <symbol>http://sciencenotes.org/periodic-table-element-cells/</symbol>
+      <config>http://commons.wikimedia.org/wiki/File:Electron_shell_055_Caesium.svg</config>
+      <example>http://tycho.usno.navy.mil/cesium.html</example>
+      <phase>http://education.jlab.org/itselemental/ele055.html</phase>
+      <info>http://en.wikipedia.org/wiki/Cesium</info>
+    </sources>
+  </element>
+  <element id="56" name="Barium">
+    <path>Elements/Barium.png</path>
+    <sources>
+      <sample>http://periodictable.com/Elements/056/index.html</sample>
+      <symbol>http://sciencenotes.org/periodic-table-element-cells/</symbol>
+      <config>http://commons.wikimedia.org/wiki/File:Electron_shell_056_Barium.svg</config>
+      <example></example>
+      <phase>http://education.jlab.org/itselemental/ele056.html</phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="57" name="Lanthanum">
+    <path>Elements/Lanthanum.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/lanthanum.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="58" name="Cerium">
+    <path>Elements/Cerium.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/cerium.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="59" name="Praseodymium">
+    <path>Elements/Praseodymium.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/praseodymium.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="60" name="Neodymium">
+    <path>Elements/Neodymium.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/neodymium.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="61" name="Promethium">
+    <path>Elements/Promethium.png</path>
+    <sources>
+      <sample>http://www.twnree.com/portfolio-item/promethium-61/</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="62" name="Samarium">
+    <path>Elements/Samarium.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/samarium.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="63" name="Europium">
+    <path>Elements/Europium.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:Eu-Block.jpg</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="64" name="Gadolinium">
+    <path>Elements/Gadolinium.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/gadolinium.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="65" name="Terbium">
+    <path>Elements/Terbium.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/terbium.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="66" name="Dysprosium">
+    <path>Elements/Dysprosium.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/dysprosium.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="67" name="Holmium">
+    <path>Elements/Holmium.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/holmium.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="68" name="Erbium">
+    <path>Elements/Erbium.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:Erbium.jpg</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="69" name="Thulium">
+    <path>Elements/Thulium.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/thulium.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="70" name="Ytterbium">
+    <path>Elements/Ytterbium.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/ytterbium.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="71" name="Lutetium">
+    <path>Elements/Lutetium.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/lutetium.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="72" name="Hafnium">
+    <path>Elements/Hafnium.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:Hafnium_bits.jpg</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="73" name="Tantalum">
+    <path>Elements/Tantalum.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:Single_piece_of_tantalum,_about_1_cm_in_size..jpg</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="74" name="Tungsten">
+    <path>Elements/Tungsten.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:Wolfram_evaporated_crystals_and_1cm3_cube.jpg</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="75" name="Rhenium">
+    <path>Elements/Rhenium.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/rhenium-3.jpg</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="76" name="Osmium">
+    <path>Elements/Osmium.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:Osmium_crystals.jpg</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="77" name="Iridium">
+    <path>Elements/Iridium.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/iridium.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="78" name="Platinum">
+    <path>Elements/Platinum.png</path>
+    <sources>
+      <sample>http://en.wikipedia.org/wiki/File:Platinum_crystals.jpg#</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="79" name="Gold">
+    <path>Elements/Gold.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:Gold-crystals.jpg</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="80" name="Mercury">
+    <path>Elements/Mercury.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/mercury.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="81" name="Thallium">
+    <path>Elements/Thallium.png</path>
+    <sources>
+      <sample>http://www.mindat.org/photo-131710.html</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="82" name="Lead">
+    <path>Elements/Lead.png</path>
+    <sources>
+      <sample>http://en.wikipedia.org/wiki/File:Calcite-Galena-elm56c.jpg</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="83" name="Bismuth">
+    <path>Elements/Bismuth.png</path>
+    <sources>
+      <sample>http://commons.wikimedia.org/wiki/File:Wismut_Kristall_und_1cm3_Wuerfel.jpg</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="84" name="Polonium">
+    <path>Elements/Polonium.png</path>
+    <sources>
+      <sample>http://www.theodoregray.com/PeriodicTable/Samples/084.8/index.pair.s12.html</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="85" name="Astatine">
+    <path>Elements/Astatine.png</path>
+    <sources>
+      <sample>http://periodictable.com/Elements/085/index.html</sample>
+      <symbol>http://sciencenotes.org/periodic-table-element-cells/</symbol>
+      <config>http://commons.wikimedia.org/wiki/File:Electron_shell_085_Astatine.svg</config>
+      <example></example>
+      <phase>http://education.jlab.org/itselemental/ele085.html</phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="86" name="Radon">
+    <path>Elements/Radon.png</path>
+    <sources>
+      <sample>http://periodictable.com/Elements/086/index.html</sample>
+      <symbol>http://sciencenotes.org/periodic-table-element-cells/</symbol>
+      <config>http://commons.wikimedia.org/wiki/File:Electron_shell_086_Radon.svg</config>
+      <example></example>
+      <phase>http://education.jlab.org/itselemental/ele086.html</phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="87" name="Francium">
+    <path>Elements/Francium.png</path>
+    <sources>
+      <sample>http://www.theodoregray.com/PeriodicTable//Samples/087.4/index.pair.s15.html</sample>
+      <symbol>http://sciencenotes.org/periodic-table-element-cells/</symbol>
+      <config>http://commons.wikimedia.org/wiki/File:Electron_shell_087_Francium.svg</config>
+      <example></example>
+      <phase>http://education.jlab.org/itselemental/ele087.html</phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="88" name="Radium">
+    <path>Elements/Radium.png</path>
+    <sources>
+      <sample>Google Images: search 'Radium Watch'</sample>
+      <symbol>http://sciencenotes.org/periodic-table-element-cells/</symbol>
+      <config>http://commons.wikimedia.org/wiki/File:Electron_shell_088_Radium.svg</config>
+      <example>http://en.wikipedia.org/wiki/File:Radium_2.jpg</example>
+      <phase>http://education.jlab.org/itselemental/ele088.html</phase>
+      <info>http://en.wikipedia.org/wiki/Radium</info>
+    </sources>
+  </element>
+  <element id="89" name="Actinium">
+    <path>Elements/Actinium.png</path>
+    <sources>
+      <sample>http://www.lenntech.com/periodic/elements/ac.htm</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="90" name="Thorium">
+    <path>Elements/Thorium.png</path>
+    <sources>
+      <sample>http://periodictable.com/Elements/090/index.html</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="91" name="Protactinium">
+    <path>Elements/Protactinium.png</path>
+    <sources>
+      <sample>http://en.wikipedia.org/wiki/File:Protactinium.jpg</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <element id="92" name="Uranium">
+    <path>Elements/Uranium.png</path>
+    <sources>
+      <sample>http://images-of-elements.com/uranium.php</sample>
+      <symbol></symbol>
+      <config></config>
+      <example></example>
+      <phase></phase>
+      <info></info>
+    </sources>
+  </element>
+  <!-- Credit Data -->
+  <credit id="0" name="Group 1"><path>Credits/Credits-1.png</path></credit>
+  <credit id="1" name="Group 2"><path>Credits/Credits-2.png</path></credit>
+  <credit id="2" name="Group 3-12"><path>Credits/Credits-3.png</path></credit>
+  <credit id="3" name="Group 13-16: Metals"><path>Credits/Credits-4.png</path></credit>
+  <credit id="4" name="Group 13-16: Nonmetals"><path>Credits/Credits-5.png</path></credit>
+  <credit id="5" name="Halogens"><path>Credits/Credits-6.png</path></credit>
+  <credit id="6" name="Noble Gases"><path>Credits/Credits-7.png</path></credit>
+  <credit id="7" name="Rare Earths"><path>Credits/Credits-8.png</path></credit>
+</Data>
